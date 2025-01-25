@@ -46,6 +46,7 @@ export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so
 
 Instal requirement.txt
 
+if ```mjrl``` cannot be found, follow the [guidance](https://www.deeprlhub.com/d/754-offline-rl2-d4rl)
 ```
 pip3 install -r requirements.txt
 ```
