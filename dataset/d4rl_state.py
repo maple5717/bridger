@@ -15,7 +15,7 @@ import gym
 import d4rl
 
 from dataset.dataset_util import *
-from heuristic_policies.relocate_policy import BatchRelocatePolicy
+# from heuristic_policies.relocate_policy import BatchRelocatePolicy
 from heuristic_policies.hammer_policy import HammerPolicy
 from heuristic_policies.door_policy import DoorPolicy
 
